@@ -1,0 +1,45 @@
+ body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50px;
+        color: rgb(18, 22, 235);
+        text-align: center;
+        background-color: azure;
+        background-image:url(../images/background\ image.png);
+        background-position: center center;
+    }
+    ol {
+        font-size: 30px;
+        color: rgb(251, 249, 252);
+        font-style: normal;
+        text-align: left;
+        margin-left: 30px;
+        padding: 50px;
+        font-weight: normal;
+        }
+    ul {
+        color: rgb(31, 29, 30);
+        font-style: italic;
+        text-decoration: none;
+        font-weight: normal;
+    }
+    ul:hover{
+        background-color: rgb(236, 236, 39);
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+    
+    .underline {
+        text-decoration: underline;
+    }
+
+    .box1 {
+        border-width: 5px;
+        border-style: solid;
+        border-color: gray;
+        background-color: aliceblue;
+        padding: 5px;
+        margin: 20px;
+        
+    }
